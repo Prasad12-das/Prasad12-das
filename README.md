@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prasad12-das/](https://github.com/Prasad12-das/)
 
-- 💬 Ask me about **Data Analytics , Artificial intelligence, Software development, Python, Power BI, SQL, Tableau, and etc.**
+- 💬 Ask me about **Data Analytics , Artificial Intelligence, Software Development, Python, Power BI, SQL, Tableau, and etc.**
 
 - 📫 How to reach me **prasad12.das@gmail.com**
 
