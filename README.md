@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@patel.poojag10](https://medium.com/@patel.poojag10)
 
-- 💬 Ask me about **Data Analyst , Artificial intelligence, Software development, Python, Power BI, SQL, Tableau, and etc**
+- 💬 Ask me about **Data Analytics , Artificial intelligence, Software development, Python, Power BI, SQL, Tableau, and etc**
 
 - 📫 How to reach me **prasad12.das@gmail.com**
 
