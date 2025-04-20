@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs).
 
-- 👨‍💻 All of my projects are available at [https://github.com/Prasad12-das/](https://github.com/Prasad12-das/)
+- 👨‍💻 All of my projects are available at [https://github.com/Prasad12-das?tab=projects]
 
 - 📫 How to reach me **prasad12.das@gmail.com**
 
