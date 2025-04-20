@@ -1,6 +1,8 @@
 # About Me:
 <h1 align="center">Hi, My name is Prasad 👨🏻‍💻 </h1>
 
+- 📚 Currently I'm pursuing my Master's in Data Analytics at Clark University.
+
 - 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs).
 
 - 👨‍💻 All of my projects are available at https://github.com/Prasad12-das?tab=projects
