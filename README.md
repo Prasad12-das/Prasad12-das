@@ -1,5 +1,5 @@
 # About Me:
-<h1 align="center">Hi 👋, I'm Sailaja Prasad Das</h1>
+<h1 align="center">Hi 👋, I'm Prasad </h1>
 
 - 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs).
 
