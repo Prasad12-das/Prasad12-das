@@ -1,11 +1,9 @@
 # About Me:
 <h1 align="center">Hi 👋, I'm Sailaja Prasad Das</h1>
 
-- 🔭 I’m currently working on **Data Analytics project Development using Python and SQL.**
+- 🔭 I’m currently learning Machine Learning and LLM. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prasad12-das/](https://github.com/Prasad12-das/)
-
-- 💬 Ask me about **Data Analytics , Artificial Intelligence, Software Development, Python, Power BI, SQL, Tableau, and etc.**
 
 - 📫 How to reach me **prasad12.das@gmail.com**
 
