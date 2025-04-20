@@ -1,7 +1,7 @@
 # About Me:
 <h1 align="center">Hi 👋, I'm Sailaja Prasad Das</h1>
 
-- 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs) — diving into model fine-tuning, NLP applications, and ethical AI.
+- 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs).
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prasad12-das/](https://github.com/Prasad12-das/)
 
