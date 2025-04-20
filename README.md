@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <h1 align="center">Hi 👋, I'm Sailaja Prasad Das</h1>
 
 - 🔭 I’m currently working on **Data Analytics project Development using Python and SQL.**
