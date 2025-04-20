@@ -1,5 +1,5 @@
 # About Me:
-<h1 align="center">Hi, My namee is Prasad 👨🏻‍💻. With 5+ years in IT at industry leaders like Accenture and Capgemini, I specialize in designing and optimizing Oracle Cloud solutions to streamline business operations. Now pursuing my MS in Data Analytics @ Clark University, I’m bridging my cloud expertise with advanced analytics to unlock data-driven insights. </h1>
+<h1 align="center">Hi, My namee is Prasad 👨🏻‍💻. </h1>
 
 - 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs).
 
