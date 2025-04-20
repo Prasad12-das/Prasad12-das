@@ -1,5 +1,5 @@
 # About Me:
-<h1 align="center">Hi, My namee is Prasad 👨🏻‍💻. </h1>
+<h1 align="center">Hi, My namee is Prasad 👨🏻‍💻 </h1>
 
 - 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs).
 
