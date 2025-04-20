@@ -1,7 +1,7 @@
 # About Me:
 <h1 align="center">Hi, My name is Prasad 👨🏻‍💻 </h1>
 
-- 📚 Currently I'm pursuing my Master's in Data Analytics at Clark University.
+- 📚 I'm pursuing my Master's in Data Analytics at Clark University.
 
 - 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs).
 
