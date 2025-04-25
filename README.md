@@ -5,7 +5,7 @@
 
 - 🔍 Exploring AI/ML & Large Language Models (LLMs).
 
-- 👨‍💻 Explore my work: https://github.com/Prasad12-das?tab=repositories
+- 👨‍💻 Explore my work: [GitHub](https://github.com/Prasad12-das?tab=repositories)
 
 - 📩 Let’s connect: prasad12.das@gmail.com
 
