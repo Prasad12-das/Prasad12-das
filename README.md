@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently exploring Machine Learning (ML) & Large Language Models (LLMs).
 
-- 👨‍💻 All of my projects are available at https://github.com/Prasad12-das?tab=projects
+- 👨‍💻 All of my projects are available at [https://github.com/Prasad12-das?tab=repositories]
 
 - 📩 How to reach me **prasad12.das@gmail.com**
 
