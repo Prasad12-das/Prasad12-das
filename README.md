@@ -1,5 +1,5 @@
 # About Me:
-<h1 align="center">Hi, My name is Prasad 👨🏻‍💻 </h1>
+<h1 align="center">Hi there 👋, I am Prasad 👨🏻‍💻 </h1>
 
 - 🎓 M.S. in Data Analytics @ Clark University.
 
