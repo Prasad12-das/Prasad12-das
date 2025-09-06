@@ -39,7 +39,7 @@ Here’s a glimpse of the work I enjoy doing:
 
 * 👯 **Looking to Collaborate on:** Open-source data engineering tools or innovative AI-for-data projects.
 * 💬 **Ask me about:** Data modeling, ETL/ELT design, SQL query optimization, or building a portfolio project.
-* 📫 **How to reach me:** [Linkedin](https://www.linkedin.com/in/saiprasaddas/) | Email: <ins>prasad12.das@gmail.com</ins>
+* 📫 **How to reach me:** [Linkedin](https://www.linkedin.com/in/saiprasaddas/) | Email: prasad12.das@gmail.com
 
 
 ### 🌐 Socials
