@@ -1,5 +1,5 @@
 # About Me:
-<h1 align="center">Hi there, I am Prasad 👋 </h1>
+<h1 align="center">Hi there, I'm Prasad 👋 </h1>
 
 `Data Engineer | Data Analyst | Data Scientist | AI Enthusiast`
 
