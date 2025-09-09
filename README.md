@@ -28,7 +28,7 @@ Here’s a glimpse of the work I enjoy doing:
     *   `Microsoft Azure` `ADF` `ADLS` `Logic Apps`
 
 3.  **[Interactive Tableau Dashboard for Business Metrics](https://github.com/Prasad12-das/Tableau/tree/main/Sales%20Performance)**
-    *   Developed a comprehensive Tableau dashboard from a relational database, enabling stakeholders to visualize key sales and customer performance metrics dynamically.
+    *   Developed a comprehensive Tableau dashboard from a relational database, enabling stakeholders to visualize key Sales and Customer performance metrics dynamically.
     *   `SQL` `Tableau` `Data Modeling` `Data Visualization`
 
 4.  **[Exploring RAG with Open-Source LLMs](link-to-repo)**
