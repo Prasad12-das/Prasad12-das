@@ -23,11 +23,11 @@ Here’s a glimpse of the work I enjoy doing:
     *   Built a scalable event-streaming pipeline to track user activity, process events in real-time with Kafka, and load aggregated data into Snowflake using Airflow DAGs.
     *   `Python` `Apache Airflow` `Kafka` `Snowflake` `Docker`
 
-2.  **[End-to-End ETL Pipeline: Enterprise Data Engineering]([link-to-repo](https://github.com/Prasad12-das/Data-Engineering-Projects/tree/main/ADF_Project))**
+2.  **[End-to-End ETL Pipeline: Enterprise Data Engineering](https://github.com/Prasad12-das/Data-Engineering-Projects/tree/main/ADF_Project)**
     *   Designed a cloud-based ETL process extracting data from various sources (APIs, SQL DB) using Data Factory and loading it into Azue Data Lake Storage.
     *   `Microsoft Azure` `ADF` `ADLS` `Logic Apps`
 
-3.  **[Interactive Tableau Dashboard for Business Metrics]([link-to-repo](https://github.com/Prasad12-das/Tableau/tree/main/Sales%20Performance))**
+3.  **[Interactive Tableau Dashboard for Business Metrics](https://github.com/Prasad12-das/Tableau/tree/main/Sales%20Performance)**
     *   Developed a comprehensive Tableau dashboard from a relational database, enabling stakeholders to visualize key sales and customer performance metrics dynamically.
     *   `SQL` `Tableau` `Data Modeling` `Data Visualization`
 
